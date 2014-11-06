@@ -1,4 +1,6 @@
-module MngLanding
-  module ApplicationHelper
+module MNG
+  module Landing
+    module ApplicationHelper
+    end
   end
 end

@@ -1,4 +1,6 @@
 require "mng_landing/engine"
 
-module MNGLanding
+module MNG
+  module Landing
+  end
 end

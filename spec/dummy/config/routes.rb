@@ -1,4 +1,4 @@
 Rails.application.routes.draw do
 
-  mount MngLanding::Engine => "/mng_landing"
+  mount MNG::Landing::Engine => "/mng_landing"
 end

@@ -6,7 +6,7 @@ require "mng_landing/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "mng_landing"
-  s.version     = MNGLanding::VERSION
+  s.version     = MNG::Landing::VERSION
   s.authors     = ["Cezar Halmagean"]
   s.email       = ["cezar@halmagean.ro"]
   s.homepage    = "https://github.com/mixandgo/mng_landing"

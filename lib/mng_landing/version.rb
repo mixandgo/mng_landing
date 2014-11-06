@@ -1,3 +1,5 @@
-module MNGLanding
-  VERSION = "0.0.1"
+module MNG
+  module Landing
+    VERSION = "0.0.1"
+  end
 end

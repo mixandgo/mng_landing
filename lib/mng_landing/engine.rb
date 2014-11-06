@@ -1,5 +1,7 @@
-module MNGLanding
-  class Engine < ::Rails::Engine
-    isolate_namespace MngLanding
+module MNG
+  module Landing
+    class Engine < ::Rails::Engine
+      isolate_namespace MNG::Landing
+    end
   end
 end

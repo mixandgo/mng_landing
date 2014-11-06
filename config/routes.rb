@@ -1,2 +1,2 @@
-MngLanding::Engine.routes.draw do
+MNG::Landing::Engine.routes.draw do
 end
